@@ -17,8 +17,8 @@ The following image shows the web application's appearance and functionality:
 
 
 ## Deployment
-Live URL: https://costea47.github.io/Responsive-Portfolio/
-GitHub Repository: https://github.com/Costea47/Responsive-Portfolio
+Live URL: https://costea47.github.io/Bootstrap-Portfolio/
+GitHub Repository: https://github.com/Costea47/Bootstrap-Portfolio
 
 ## License
 This project is licensed under the MIT License.
